@@ -1,0 +1,12 @@
+<div class="p-fluid">
+  <form #form="ngForm" (ngSubmit)="updateDeviceType()">
+    <div class="p-field">
+      <label for="tanim">Tanım</label>
+      <input id="tanim" name="tanim" #tanim="ngModel" type="text" [(ngModel)]="deviceType.title" required pInputText>
+    </div>
+    <div class="p-field">
+      <button pButton pRipple type="submit" [disabled]="tanim.invalid" icon="pi pi-check" label="Güncelle"
+        iconPos="left"></button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.API", "UncleProductTracking.API\UncleProductTracking.API.csproj", "{6AC3F3D1-EBCB-4BE8-B39B-A21CA766023F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Repo", "UncleProductTracking.Repo\UncleProductTracking.Repo.csproj", "{9AB3DB90-AF1F-4207-A6C0-94EBEAD02633}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Biz", "UncleProductTracking.Biz\UncleProductTracking.Biz.csproj", "{6E48ACE8-22DF-4B1C-BDA0-5FE40C396064}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Common", "UncleProductTracking.Common\UncleProductTracking.Common.csproj", "{DE47D39D-91C0-436D-8E5F-8C6288F873BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Entities", "UncleProductTracking.Entities\UncleProductTracking.Entities.csproj", "{D59D45DD-0F0C-4681-9F3A-C8AE426914B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncleProductTracking.Report", "UncleProductTracking.Report\UncleProductTracking.Report.csproj", "{B8657CB5-C84E-41FB-A78D-4432D768C053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC3F3D1-EBCB-4BE8-B39B-A21CA766023F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC3F3D1-EBCB-4BE8-B39B-A21CA766023F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC3F3D1-EBCB-4BE8-B39B-A21CA766023F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC3F3D1-EBCB-4BE8-B39B-A21CA766023F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB3DB90-AF1F-4207-A6C0-94EBEAD02633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB3DB90-AF1F-4207-A6C0-94EBEAD02633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB3DB90-AF1F-4207-A6C0-94EBEAD02633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB3DB90-AF1F-4207-A6C0-94EBEAD02633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E48ACE8-22DF-4B1C-BDA0-5FE40C396064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E48ACE8-22DF-4B1C-BDA0-5FE40C396064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E48ACE8-22DF-4B1C-BDA0-5FE40C396064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E48ACE8-22DF-4B1C-BDA0-5FE40C396064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE47D39D-91C0-436D-8E5F-8C6288F873BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE47D39D-91C0-436D-8E5F-8C6288F873BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE47D39D-91C0-436D-8E5F-8C6288F873BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE47D39D-91C0-436D-8E5F-8C6288F873BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59D45DD-0F0C-4681-9F3A-C8AE426914B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59D45DD-0F0C-4681-9F3A-C8AE426914B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59D45DD-0F0C-4681-9F3A-C8AE426914B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59D45DD-0F0C-4681-9F3A-C8AE426914B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F69C6B-3872-4FFF-8A97-423D899C5EC2}
+	EndGlobalSection
+EndGlobal

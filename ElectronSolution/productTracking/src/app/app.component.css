@@ -1,0 +1,11 @@
+body{
+    /* background-image: url('../assets/wallpaper/1.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Show horizontal scrollbar */
+}
