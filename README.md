@@ -24,6 +24,8 @@ In this way, with the angular 11 used in the electron, the requests required for
 
 <h4>Used technologies / Kullanılan teknolojiler</h4>
 <ul>
+ <li>C#</li>
+ <li>Typescript</li>
  <li>.Net core 3.1</li>
  <li>Npoi excel reporting</li>
  <li>Sqlite</li>
