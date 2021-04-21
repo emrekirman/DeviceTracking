@@ -23,11 +23,15 @@ In this way, with the angular 11 used in the electron, the requests required for
 </p>
 
 <h4>Used technologies / Kullanılan teknolojiler</h4>
-<ol>
- <li>.Net Core 3.1</li>
+<ul>
+ <li>.Net core 3.1</li>
  <li>Npoi excel reporting</li>
  <li>Sqlite</li>
- <li>Entity Framework core</li>
+ <li>Entity framework core</li>
  <li>Unit of work design pattern</li>
  <li>Repository design pattern</li>
-</ol>
+ <li>Electron js</li>
+ <li>Node js</li>
+ <li>Angular 11</li>
+ <li>PrimeNg</li>
+</ul>
