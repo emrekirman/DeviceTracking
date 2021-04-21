@@ -15,3 +15,19 @@ It provides tracking, entrances, exits, regulations and reporting of the devices
 .net core projesi publish edildikten sonra electron içerisinde node.js yardımı ile bir child process olarak web api şeklinde çalıştırıldı. <br />
 Bu sayede electron içerisinde kullanılan angular 11 ile apiye gerekli istekler atılıp haberleşme kolay bir şekilde sağlanmış oldu.
 </p>
+
+<p>
+While this program is being developed, in order to be portable, platform independent and developed; electron js, angular and .net core 3.1 technologies were used.
+After publishing the .net core project, it was run as a web api as a child process with the help of node.js in electron.
+In this way, with the angular 11 used in the electron, the requests required for api were sent and the communication was provided easily.
+</p>
+
+<h4>Used technologies / Kullanılan teknolojiler</h4>
+<ol>
+ <li>.Net Core 3.1</li>
+ <li>Npoi excel reporting</li>
+ <li>Sqlite</li>
+ <li>Entity Framework core</li>
+ <li>Unit of work design pattern</li>
+ <li>Repository design pattern</li>
+</ol>
