@@ -142,7 +142,9 @@ namespace UncleProductTracking.Biz.Manager
         {
             try
             {
-                return _unitOfWork.Device.Update(model);
+                Device device = _unitOfWork.Device.Update(model);
+                _unitOfWork.Complete();
+                return device;
             }
             catch (Exception e)
             {
