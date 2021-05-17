@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Common
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Entities", "UncleProductTracking.Entities\UncleProductTracking.Entities.csproj", "{D59D45DD-0F0C-4681-9F3A-C8AE426914B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncleProductTracking.Report", "UncleProductTracking.Report\UncleProductTracking.Report.csproj", "{B8657CB5-C84E-41FB-A78D-4432D768C053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UncleProductTracking.Report", "UncleProductTracking.Report\UncleProductTracking.Report.csproj", "{B8657CB5-C84E-41FB-A78D-4432D768C053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preperation", "Preperation\Preperation.csproj", "{2E4942DF-1206-4B78-912A-BF9090E6D280}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8657CB5-C84E-41FB-A78D-4432D768C053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4942DF-1206-4B78-912A-BF9090E6D280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4942DF-1206-4B78-912A-BF9090E6D280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4942DF-1206-4B78-912A-BF9090E6D280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4942DF-1206-4B78-912A-BF9090E6D280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
